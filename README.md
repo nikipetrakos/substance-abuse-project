@@ -1,0 +1,2 @@
+# substance-abuse-project
+This independent data analysis project aims to answer the fundamental question - who needs aid within the current context of the opioid epidemic that is sweeping the United States? Substance abuse is an important public health issue, and one of the first steps to addressing this increasingly prevalent issue is determining which populations are most at-risk and need more support.
